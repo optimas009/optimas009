@@ -4,28 +4,7 @@
 
 <br/>
 
-### Connect with me:
 
-<a href="https://www.linkedin.com/in/mohammad-tahmid-shams-665b49233/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.facebook.com/shams.tahmid19/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://www.instagram.com/tahmid_shams__">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://github.com/optimas009">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://mdtahmidshams.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:shamstahmid19@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
 
 <br/>
 
@@ -161,6 +140,66 @@
 </table>
 
 <br/><br/>
+
+<div align="center">
+
+### Connect with me:
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohammad-tahmid-shams-665b49233/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    width="56"
+    height="56"
+    alt="LinkedIn"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/shams.tahmid19/">
+  <img
+    src="https://cdn.simpleicons.org/facebook/1877F2"
+    width="56"
+    height="56"
+    alt="Facebook"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/tahmid_shams__">
+  <img
+    src="https://cdn.simpleicons.org/instagram/E4405F"
+    width="56"
+    height="56"
+    alt="Instagram"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/optimas009">
+  <img
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    width="56"
+    height="56"
+    alt="GitHub"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://mdtahmidshams.vercel.app/">
+  <img
+    src="https://cdn.simpleicons.org/vercel/FFFFFF"
+    width="56"
+    height="56"
+    alt="Portfolio"
+  />
+</a>
+
+</div>
+
+<br/><br/>
+
 
 <div align="center">
 
