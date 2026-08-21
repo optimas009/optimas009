@@ -2,11 +2,6 @@
 
 # Hi 👋, I'm Tahmid
 
-### Full-Stack Web Developer
-
-I build production-oriented full-stack applications with secure authentication,
-admin dashboards, e-commerce workflows, payment systems, and database-driven architecture.
-
 [![GitHub](https://img.shields.io/badge/GitHub-optimas009-181717?style=for-the-badge&logo=github)](https://github.com/optimas009)
 
 </div>
